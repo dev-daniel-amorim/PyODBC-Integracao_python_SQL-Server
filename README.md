@@ -3,12 +3,14 @@
 Neste Tutorial vamos usar a biblioteca Pyodbc para estabelecer a conexão do Jupyter Notebook com
 SQL Server. Vamos aprender a instalar o driver de comunicação e muito mais, confira nos links abaixo:
 
-[Link para vídeo aula](https://youtu.be/iW4UDgHoNtc)
+## Tutoriais no Medium:
+[Conectando SQL ao Jupyter Notebook usando biblioteca PyODBC](https://medium.com/@dev.daniel.amorim/jupyter-notebook-sql-server-1af8eb22cf02)
 
-[Link para tutorial no Medium](https://medium.com/@dev.daniel.amorim/jupyter-notebook-sql-server-1af8eb22cf02)
+## Video aulas no Youtube:
+[Conectando SQL ao Jupyter Notebook usando biblioteca PyODBC](https://youtu.be/iW4UDgHoNtc)
 
 ### Jupyter Notebook
-[Link para o notebook da aula](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/SQL%20%2B%20Pyodbc%20%2B%20Jupyter.ipynb)
+[Clique aqui para abrir o notebook da aula](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/SQL%20%2B%20Pyodbc%20%2B%20Jupyter.ipynb)
 
 
  
