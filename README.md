@@ -12,5 +12,8 @@ SQL Server. Vamos aprender a instalar o driver de comunicação e muito mais, co
 ### Jupyter Notebook
 [Clique aqui para abrir o notebook da aula](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/SQL%20%2B%20Pyodbc%20%2B%20Jupyter.ipynb)
 
+<br>
+<hr>
 
+[<< Voltar para página inicial](https://github.com/dev-daniel-amorim)
  
